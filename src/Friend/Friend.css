@@ -1,0 +1,16 @@
+.card-style{
+     background: #eee;
+     color: black;
+     padding: 20px;
+     margin: 10px;
+     border-radius: 20px;
+}
+button {
+     background: #FEC12F;
+     border: none;
+     padding: 8px 14px;
+     font-size: 14px;
+     color: black;
+     border-radius: 5px;
+     font-weight: 700;
+ }
